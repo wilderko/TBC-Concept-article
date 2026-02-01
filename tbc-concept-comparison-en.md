@@ -20,8 +20,11 @@
 <tr><td>Fast Track (priority check-in)</td><td>—</td><td>✓</td></tr>
 <tr><td>Personal banker</td><td>—</td><td>✓</td></tr>
 <tr><td>Concierge services</td><td>✓</td><td>✓</td></tr>
+<tr><td colspan="3"><strong>Additional Benefits</strong></td></tr>
+<tr><td>Free utility bill payments</td><td>✓</td><td>✓</td></tr>
+<tr><td>Turkish Airlines Miles collection</td><td>—</td><td>✓</td></tr>
 <tr><td colspan="3"><strong>Payment Card Types</strong></td></tr>
-<tr><td>Visa Platinum</td><td>✓</td><td>✓</td></tr>
-<tr><td>Visa Signature</td><td>✓</td><td>✓</td></tr>
+<tr><td>Visa Platinum</td><td>✓</td><td>—</td></tr>
+<tr><td>Visa Signature</td><td>—</td><td>✓</td></tr>
 <tr><td>MasterCard World Elite</td><td>✓</td><td>✓</td></tr>
 </table>

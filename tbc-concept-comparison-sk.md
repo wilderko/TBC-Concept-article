@@ -20,8 +20,11 @@
 <tr><td>Fast Track (prednostné odbavenie)</td><td>—</td><td>✓</td></tr>
 <tr><td>Osobný bankár</td><td>—</td><td>✓</td></tr>
 <tr><td>Concierge služby</td><td>✓</td><td>✓</td></tr>
+<tr><td colspan="3"><strong>Ďalšie výhody</strong></td></tr>
+<tr><td>Bezplatné platby za energie a služby</td><td>✓</td><td>✓</td></tr>
+<tr><td>Turkish Airlines Miles zbieranie</td><td>—</td><td>✓</td></tr>
 <tr><td colspan="3"><strong>Typy platobných kariet</strong></td></tr>
-<tr><td>Visa Platinum</td><td>✓</td><td>✓</td></tr>
-<tr><td>Visa Signature</td><td>✓</td><td>✓</td></tr>
+<tr><td>Visa Platinum</td><td>✓</td><td>—</td></tr>
+<tr><td>Visa Signature</td><td>—</td><td>✓</td></tr>
 <tr><td>MasterCard World Elite</td><td>✓</td><td>✓</td></tr>
 </table>
