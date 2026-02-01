@@ -1,21 +1,16 @@
 <table>
   <thead>
     <tr>
-      <th>Položka</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Položka</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Mesačný poplatok (nerezidenti)</td>
-      <td>25 ₾/mesiac</td>
-      <td>50 ₾/mesiac</td>
-    </tr>
-    <tr>
-      <td>Mesačný poplatok (rezidenti)</td>
-      <td>Zadarmo</td>
-      <td>Zadarmo</td>
+      <td>Ročný poplatok (nerezidenti)</td>
+      <td>300 ₾/rok</td>
+      <td>500 ₾/rok</td>
     </tr>
   </tbody>
 </table>
@@ -23,21 +18,21 @@
 <table>
   <thead>
     <tr>
-      <th>Typ transakcie</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Typ transakcie</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Cashback na všetky transakcie v Gruzínsku</td>
-      <td>0,6%</td>
-      <td>0,7%</td>
+      <td>0,6 %</td>
+      <td>0,7 %</td>
     </tr>
     <tr>
       <td>Cashback na TBC termináloch</td>
-      <td>1,2%</td>
-      <td>2,1%</td>
+      <td>1,2 %</td>
+      <td>2,1 %</td>
     </tr>
   </tbody>
 </table>
@@ -45,9 +40,9 @@
 <table>
   <thead>
     <tr>
-      <th>Limit / Podmienka</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Limit / Podmienka</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +54,7 @@
     <tr>
       <td>Bezplatný výber v zahraničí</td>
       <td>—</td>
-      <td>Do ekvivalentu 15 000 ₾</td>
+      <td>Do 15 000 ₾ ekvivalent</td>
     </tr>
     <tr>
       <td>Výber z bankomatov TBC Bank</td>
@@ -72,9 +67,9 @@
 <table>
   <thead>
     <tr>
-      <th>Typ prevodu</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Typ prevodu</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
@@ -85,8 +80,8 @@
     </tr>
     <tr>
       <td>SWIFT prevody (medzinárodné)</td>
-      <td>15 $/€/£ paušálny poplatok</td>
-      <td>15 $/€/£ paušálny poplatok</td>
+      <td>15 $/€/£ paušálne</td>
+      <td>15 $/€/£ paušálne</td>
     </tr>
   </tbody>
 </table>
@@ -94,16 +89,16 @@
 <table>
   <thead>
     <tr>
-      <th>Typ poistenia</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Typ poistenia</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Bezplatné cestovné poistenie</td>
       <td>14 dní</td>
-      <td>30 dní + 183 dní</td>
+      <td>30 + 183 dní</td>
     </tr>
     <tr>
       <td>Kompenzácia za meškanie letu</td>
@@ -116,9 +111,9 @@
 <table>
   <thead>
     <tr>
-      <th>Služba</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Služba</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
@@ -153,9 +148,9 @@
 <table>
   <thead>
     <tr>
-      <th>Typ karty</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Typ karty</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
@@ -180,26 +175,26 @@
 <table>
   <thead>
     <tr>
-      <th>Funkcia</th>
-      <th>TBC Concept Card</th>
-      <th>TBC Concept Card 360</th>
+      <th style="width:50%">Súhrnné porovnanie</th>
+      <th style="width:25%">TBC Concept Card</th>
+      <th style="width:25%">TBC Concept Card 360</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Mesačný poplatok (nerezidenti)</td>
-      <td>25 ₾</td>
-      <td>50 ₾</td>
+      <td>Ročný poplatok (nerezidenti)</td>
+      <td>300 ₾</td>
+      <td>500 ₾</td>
     </tr>
     <tr>
       <td>Cashback (bežné transakcie)</td>
-      <td>0,6%</td>
-      <td>0,7%</td>
+      <td>0,6 %</td>
+      <td>0,7 %</td>
     </tr>
     <tr>
       <td>Cashback (TBC terminály)</td>
-      <td>1,2%</td>
-      <td>2,1%</td>
+      <td>1,2 %</td>
+      <td>2,1 %</td>
     </tr>
     <tr>
       <td>Bezplatný výber v Gruzínsku</td>
